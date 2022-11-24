@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668608080 source:c:\users\gergy\downloads\projetohopistal2.0\cad3.0\testepim\pimquasepronto\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<iso646.h>
+
+1668649690 source:c:\users\gergy\downloads\pimcompleto\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<iso646.h>
+
