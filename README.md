@@ -10,4 +10,4 @@
     <li>Criar um arquivo e abrir ele</li>
 </ul>
 
-<img src="/telas/login.jpg">
+<img src="../telas/login.jpg">
